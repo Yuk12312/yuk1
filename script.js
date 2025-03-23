@@ -11,7 +11,7 @@ const cardData = [
         rarity: 'N',
         effect: '小毓毓會瘋狂讚您',
         execution: '連續講出10個不重複的優點',
-        image: 'card1.png.png'
+        image: 'card1.png'
     },
     {
         id: 2,
